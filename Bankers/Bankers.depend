@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1704031398 source:c:\users\j1\desktop\kjblj\main.cpp
+	<iostream>
+	<vector>
+	<iomanip>
+
+1704031398 source:c:\__projects 2024\deadlock\code c++\banker\main.cpp
+	<iostream>
+	<vector>
+	<iomanip>
+

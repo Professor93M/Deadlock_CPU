@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1714513712 source:c:\__projects 2024\deadlock\code c++\rag\main.cpp
+	<iostream>
+	<vector>
+
